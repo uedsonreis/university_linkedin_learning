@@ -1,6 +1,0 @@
-com\example\university\dao\PagingTest.class
-com\example\university\dao\FindByOneAttribute.class
-com\example\university\dao\CriteriaQueryTest.class
-com\example\university\dao\SimpleDBCrudTest.class
-com\example\university\dao\UniversityFactory.class
-com\example\university\dao\FindByClausesAndExpressions.class
